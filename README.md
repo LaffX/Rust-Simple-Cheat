@@ -1,2 +1,2 @@
 # Rust-Simple-Cheat
-🔵 İmgui | CSGO EXTERNAL CHEAT 🔵 MEMORY
+🔵 İmgui | RUST SIMPLE CHEAT 🔵 MEMORY R/W
